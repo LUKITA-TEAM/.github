@@ -1,12 +1,10 @@
-## Hi there 👋
+# Lukita
 
-<!--
+## Team
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- (ML) M306DSX0220 – Fadhil Wicaksono Nur Rahman – Universitas Pembangunan Nasional “Veteran” Yogyakarta- [Active]
+- (ML) M169DSY0144 – Ardelia Saphira Wedo Putri – University of Gadjah Mada - [Active]
+- (CC)  C169DKY4251 – Lasyitha Azzahra – Universitas Gadjah Mada - [Active]
+- (CC)  C169DKX4255 – Ahmad Syahruddin – Universitas Gadjah Mada - [Active]
+- (MD) A308DSX2024 – Putu Suardana – Universitas Pendidikan Ganesha - [Active]
+- (MD) A308DSX2107 – Kadek Prima Giant Marta Dinata – Universitas Pendidikan Ganesha- [Active]
