@@ -16,10 +16,10 @@ Art, in its various forms, has always played a significant role in human civiliz
 | Cloud Computing    | Ahmad Syahruddin               | C169DKX4255      | University of Gadjah Mada                                   |
 | Mobile Development | Putu Suardana                  | A308DSX2024      | Universitas Pendidikan Ganesha                              |
 | Mobile Development | Kadek Prima Giant Marta Dinata | A308DSX2107      | Universitas Pendidikan Ganesha                              |
+---
 
 
 # Installation Guide
----
 1. Download apk file [here](https://github.com/LUKITA-TEAM/LukitaMobile/releases)
 2. Check your phone's setting that the "installation from another source" is enabled
 3. Click install on apk file
