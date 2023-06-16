@@ -4,7 +4,7 @@ Lukita is a personal art gallery app that uses advanced technology to predict an
 
 # Installation Guide
 1. Download apk file [here](https://drive.google.com/drive/folders/12hYh4yjAvBa-5HNOPMXsSGwk6SaEHQyW?usp=sharing)
-2. Check your phone is "installation from another source" enable
+2. Check your phone's setting that the "installation from another source" is enabled
 3. Click install on apk file
 
 # Using the Application
