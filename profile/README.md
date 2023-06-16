@@ -3,7 +3,7 @@
 Lukita is a personal art gallery app that uses advanced technology to predict and describe artworks when you scan or upload an image. It analyzes the visual features to determine the art type, style, and other relevant details. Lukita is more than just an app, it is a catalyst for change. Through Lukita, we strive to reduce the gap in art knowledge, bridge the education divide, and elevate underappreciated art.
 
 # Installation Guide
-1. Download apk file [here](https://drive.google.com/drive/folders/12hYh4yjAvBa-5HNOPMXsSGwk6SaEHQyW?usp=sharing)
+1. Download apk file [here]([https://drive.google.com/drive/folders/12hYh4yjAvBa-5HNOPMXsSGwk6SaEHQyW?usp=sharing](https://github.com/LUKITA-TEAM/LukitaMobile/releases))
 2. Check your phone's setting that the "installation from another source" is enabled
 3. Click install on apk file
 
