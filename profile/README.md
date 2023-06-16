@@ -8,14 +8,14 @@ Art, in its various forms, has always played a significant role in human civiliz
 
 ### Team
 
-|   Learning Path    | Name                           | ID Bangkit       |                       University                            | 
-| ------------------ | -------------------------------|------------------|-------------------------------------------------------------|
-| Machine Learning   | Fadhil Wicaksono Nur Rahman    | M306DSX0220      | Universitas Pembangunan Nasional “Veteran” Yogyakarta       |
-| Machine Learning   | Ardelia Saphira Wedo Putri     | M169DSY0144      | University of Gadjah Mada                                   |
-| Cloud Computing    | Lasyitha Azzahra               | C169DKY4251      | University of Gadjah Mada                                   |
-| Cloud Computing    | Ahmad Syahruddin               | C169DKX4255      | University of Gadjah Mada                                   |
-| Mobile Development | Putu Suardana                  | A308DSX2024      | Universitas Pendidikan Ganesha                              |
-| Mobile Development | Kadek Prima Giant Marta Dinata | A308DSX2107      | Universitas Pendidikan Ganesha                              |
+|   Learning Path    | Name                           | ID Bangkit       |                       University                               | 
+| ------------------ | -------------------------------|------------------|----------------------------------------------------------------|
+| Machine Learning   | Fadhil Wicaksono Nur Rahman    | M306DSX0220      | Universitas Pembangunan Nasional “Veteran” Yogyakarta          |
+| Machine Learning   | Ardelia Saphira Wedo Putri     | M169DSY0144      | University of Gadjah Mada                                      |
+| Cloud Computing    | Lasyitha Azzahra               | C169DKY4251      | University of Gadjah Mada                                      |
+| Cloud Computing    | Ahmad Syahruddin               | C169DKX4255      | University of Gadjah Mada                                      |
+| Mobile Development | Putu Suardana                  | A308DSX2024      | Universitas Pendidikan Ganesha                                 |
+| Mobile Development | Kadek Prima Giant Marta Dinata | A308DSX2107      | Universitas Pendidikan Ganesha                                 |
 
 ***
 
