@@ -1,4 +1,5 @@
 # Lukita
+Lukita is a personal art gallery app that uses advanced technology to predict and describe artworks when you scan or upload an image. It analyzes the visual features to determine the art type, style, and other relevant details. Lukita is more than just an app, it is a catalyst for change. Through Lukita, we strive to reduce the gap in art knowledge, bridge the education divide, and elevate underappreciated art.
 
 ## Team
 
