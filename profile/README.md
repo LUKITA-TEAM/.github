@@ -3,6 +3,15 @@ Lukita is a personal art gallery app that uses advanced technology to predict an
 
 ## Team
 
+|   Learning Path    | Name                           | ID Bangkit       |                       University                            | 
+| ------------------ | -------------------------------|------------------|-------------------------------------------------------------|
+| Machine Learning   | Fadhil Wicaksono Nur Rahman    | M306DSX0220      | Universitas Pembangunan Nasional “Veteran” Yogyakarta       |
+| Machine Learning   | Ardelia Saphira Wedo Putri     | M169DSY0144      | University of Gadjah Mada                                   |
+| Cloud Computing    | Lasyitha Azzahra               | C169DKY4251      | University of Gadjah Mada                                   |
+| Cloud Computing    | Ahmad Syahruddin               | C169DKX4255      | University of Gadjah Mada                                   |
+| Mobile Development | Putu Suardana                  | A308DSX2024      | Universitas Pendidikan Ganesha                              |
+| Mobile Development | Kadek Prima Giant Marta Dinata | A308DSX2107      | Universitas Pendidikan Ganesha                              |
+
 - (ML) M306DSX0220 – Fadhil Wicaksono Nur Rahman – Universitas Pembangunan Nasional “Veteran” Yogyakarta- [Active]
 - (ML) M169DSY0144 – Ardelia Saphira Wedo Putri – University of Gadjah Mada - [Active]
 - (CC)  C169DKY4251 – Lasyitha Azzahra – Universitas Gadjah Mada - [Active]
